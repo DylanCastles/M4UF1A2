@@ -19,3 +19,6 @@ Es una aplicación (en local o en linea) que permite editar un texto, una hoja d
 presentación.
 
 5. [Herramientas de Google:](URL "[https://www.google.com/intl/es-419/chrome/browser-tools/]")
+
+|Aplicaciones|Visto|
+|Google Docs|:smile:
