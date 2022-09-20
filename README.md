@@ -20,9 +20,9 @@ presentación.
 
 5. [Herramientas de Google:](URL "[https://www.google.com/intl/es-419/chrome/browser-tools/]")
 
-| Aplicaciones | Visto |
-| | |
-| Google Docs | :tick: |
-| Google Sites | :tick: |
-| Google Sheets | :tick: |
+|Aplicaciones|Visto|
+|-|-|
+|Google Docs|:tick:|
+|Google Sites|:tick:|
+|Google Sheets|:tick:|
 
