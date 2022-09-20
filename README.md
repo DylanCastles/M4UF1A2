@@ -29,4 +29,4 @@ presentación.
 |Google Meet|:computer:|
 |...|...|
 
-6. ¿Que es ''HTML''?
+6. ¿Que es ``HTML``?
