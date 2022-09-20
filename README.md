@@ -7,7 +7,7 @@
 
 2. ¿Que es un sitio web?
 
-  Un sitio web es una colección de páginas web y contenido relacionado que se identifica
+    Un sitio web es una colección de páginas web y contenido relacionado que se identifica
   mediante un nombre de dominio común y se publica en al menos un servidor web.
 
 3. ¿Que es una aplicacion web?
