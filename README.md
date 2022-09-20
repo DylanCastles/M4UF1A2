@@ -3,7 +3,7 @@
 
 1. ¿Que es un sitio web?
 
-  Conjunto de información que se encuentra en una dirección determinada de internet.
+    Conjunto de información que se encuentra en una dirección determinada de internet.
 
 2. ¿Que es un sitio web?
 
