@@ -22,7 +22,7 @@ presentación.
 
 |Aplicaciones|Visto|
 |:-|:-|
-|Google Docs|:tick:|
+|Google Docs|:heavy_check_mark:|
 |Google Sites|:tick:|
 |Google Sheets|:tick:|
 
