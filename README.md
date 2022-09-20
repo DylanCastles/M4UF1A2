@@ -23,6 +23,10 @@ presentación.
 |Aplicaciones|Visto|
 |:-|:-|
 |Google Docs|:heavy_check_mark:|
-|Google Sites|:tick:|
-|Google Sheets|:tick:|
+|Google Sites|:heavy_check_mark:|
+|Google Sheets|:heavy_check_mark:|
+|Google Calendar|:calendar:|
+|Google Meet|:computer:|
+|...|...|
 
+6. 
