@@ -22,13 +22,13 @@ presentación.
 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools)
 
     |Aplicaciones|Visto|
-|:-|:-|
-|Google Docs|:heavy_check_mark:|
-|Google Sites|:heavy_check_mark:|
-|Google Sheets|:heavy_check_mark:|
-|Google Calendar|:calendar:|
-|Google Meet|:computer:|
-|...|...|
+    |:-|:-|
+    |Google Docs|:heavy_check_mark:|
+    |Google Sites|:heavy_check_mark:|
+    |Google Sheets|:heavy_check_mark:|
+    |Google Calendar|:calendar:|
+    |Google Meet|:computer:|
+    |...|...|
 
 6. ¿Que es ``HTML``?
 
