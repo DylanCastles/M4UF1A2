@@ -56,4 +56,4 @@ elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![](fotoHTMLMarkdown.png)
+![](https://github.com/DylanCastles/M4UF1A2_documentarConMarkdown_dylanCastles/blob/main/fotoHTMLMarkdown.PNG)
